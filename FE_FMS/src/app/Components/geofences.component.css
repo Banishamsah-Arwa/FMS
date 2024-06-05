@@ -1,0 +1,30 @@
+/* geofences.component.css */
+
+/* Style the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+/* Style the table header */
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+  padding: 8px;
+}
+
+/* Style the table rows */
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+/* Style the table data cells */
+td {
+  border-bottom: 1px solid #ddd;
+  padding: 8px;
+}
+
+/* Hover effect on rows */
+tr:hover {
+  background-color: #ddd;
+}

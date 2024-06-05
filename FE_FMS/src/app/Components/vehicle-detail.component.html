@@ -1,0 +1,54 @@
+<div >
+  <h2>Vehicle Information</h2>
+  <table>
+    <tr>
+      <th>Vehicle Number</th>
+      <td>{{ vehicleInformation.vehicleNumber }}</td>
+    </tr>
+    <tr>
+      <th>Vehicle Type</th>
+      <td>{{ vehicleInformation.vehicleType }}</td>
+    </tr>
+    <tr>
+      <th>Driver Name</th>
+      <td>
+        <mat-form-field appearance="fill">
+          <mat-label>Driver Name</mat-label>
+          <mat-select [(value)]="vehicleInformation.driverName" (selectionChange)="onDriverSelected($event.value)">
+            <mat-option value="" disabled>Choose a driver</mat-option>
+            <mat-option *ngFor="let driver of drivers" [value]="driver.driverName">{{ driver.driverName }}</mat-option>
+          </mat-select>
+        </mat-form-field>
+      </td>
+    </tr>
+
+    <tr>
+      <th>Phone Number</th>
+      <td>{{ vehicleInformation.phoneNumber }}</td>
+    </tr>
+    <tr>
+      <th>Last Position</th>
+      <td>{{ vehicleInformation.lastPosition }}</td>
+    </tr>
+    <tr>
+      <th>Vehicle Make</th>
+      <td>{{ vehicleInformation.vehicleMake }}</td>
+    </tr>
+    <tr>
+      <th>Vehicle Model</th>
+      <td>{{ vehicleInformation.vehicleModel }}</td>
+    </tr>
+    <tr>
+      <th>Last GPS Time</th>
+      <td>{{ vehicleInformation.lastGPSTime }}</td>
+    </tr>
+    <tr>
+      <th>Last GPS Speed</th>
+      <td>{{ vehicleInformation.lastGPSSpeed }}</td>
+    </tr>
+    <tr>
+      <th>Last Address</th>
+      <td>{{ vehicleInformation.lastAddress }}</td>
+    </tr>
+  </table>
+</div>

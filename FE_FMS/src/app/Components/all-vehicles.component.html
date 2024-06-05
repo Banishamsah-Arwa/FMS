@@ -1,0 +1,30 @@
+<div>
+  <h1>Vehicle List</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>VehicleID</th>
+        <th>VehicleNumber</th>
+        <th>VehicleType</th>
+        <th>LastDirection</th>
+        <th>LastStatus</th>
+        <th>LastAddress</th>
+        <th>LastLatitude</th>
+        <th>LastLongitude</th>
+        <th>Show More</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let vehicle of vehicles">
+        <td>{{ vehicle.vehicleID }}</td>
+        <td>{{ vehicle.vehicleNumber }}</td>
+        <td>{{ vehicle.vehicleType }}</td>
+        <td>{{ vehicle.lastDirection }}</td>
+        <td>{{ vehicle.lastStatus }}</td>
+        <td>{{ vehicle.lastAddress }}</td>
+        <td>{{ vehicle.lastLatitude }}</td>
+        <td>{{ vehicle.lastLongitude }}</td>
+        <td><button class="btn btn-primary" (click)="showMore(vehicle.vehicleID)">Show More</button></td>
+      </tr>
+    </tbody>
+  </table>

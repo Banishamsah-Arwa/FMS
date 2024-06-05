@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\bin\Debug\net8.0\ARWABANISHAMSAH_FMS.deps.json
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\bin\Debug\net8.0\ARWABANISHAMSAH_FMS.dll
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\bin\Debug\net8.0\ARWABANISHAMSAH_FMS.pdb
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\bin\Debug\net8.0\FPro.dll
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.AssemblyInfo.cs
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANI.8365EBC1.Up2Date
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.dll
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\refint\ARWABANISHAMSAH_FMS.dll
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ARWABANISHAMSAH_FMS.pdb
+C:\Users\dell\Desktop\QTZ\ARWABANISHAMSAH_FMS\obj\Debug\net8.0\ref\ARWABANISHAMSAH_FMS.dll

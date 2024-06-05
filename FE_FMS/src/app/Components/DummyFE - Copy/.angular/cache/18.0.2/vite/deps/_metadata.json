@@ -1,0 +1,67 @@
+{
+  "hash": "a47611c2",
+  "configHash": "e0399686",
+  "lockfileHash": "c038cb2e",
+  "browserHash": "8d06fa0e",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "62ac73fc",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "7914ae14",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "a6d39d7e",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "a6a19874",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "a44668ff",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "e488e975",
+      "needsInterop": false
+    },
+    "@angular/material/dialog": {
+      "src": "../../../../../../../../node_modules/@angular/material/fesm2022/dialog.mjs",
+      "file": "@angular_material_dialog.js",
+      "fileHash": "2ed99fc8",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5HOUPCI2": {
+      "file": "chunk-5HOUPCI2.js"
+    },
+    "chunk-5WKD3APW": {
+      "file": "chunk-5WKD3APW.js"
+    },
+    "chunk-L5FIIXPX": {
+      "file": "chunk-L5FIIXPX.js"
+    },
+    "chunk-VCGPZ3X2": {
+      "file": "chunk-VCGPZ3X2.js"
+    },
+    "chunk-J4B6MK7R": {
+      "file": "chunk-J4B6MK7R.js"
+    }
+  }
+}

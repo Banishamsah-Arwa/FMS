@@ -1,0 +1,44 @@
+<div>
+  <h2>Add New Vehicle Information</h2>
+  <form #addVehicleInfoForm="ngForm" (ngSubmit)="addVehicleInformation(addVehicleInfoForm)">
+    <input type="number" name="vehicleID" placeholder="Vehicle ID" ngModel required>
+    <br />
+    <input type="number" name="driverID" placeholder="Driver ID" ngModel required>
+    <br />
+    <input type="text" name="vehicleMake" placeholder="Vehicle Make" ngModel required>
+    <br />
+    <input type="text" name="vehicleModel" placeholder="Vehicle Model" ngModel required>
+    <br />
+    <input type="datetime-local" name="purchaseDate" placeholder="Purchase Date (Epoch)" ngModel required>
+    <br />
+    <input type="submit" value="Add Vehicle Information">
+  </form>
+</div>
+
+<div>
+  <h2>Update Vehicle Information</h2>
+  <form #updateVehicleInfoForm="ngForm" (ngSubmit)="updateVehicleInformation(updateVehicleInfoForm)">
+    <input type="number" name="updatedVehicleID" placeholder="Updated Vehicle ID" ngModel required>
+    <br />
+    <input type="number" name="updatedDriverID" placeholder="Updated Driver ID" ngModel required>
+    <br />
+    <input type="text" name="updatedVehicleMake" placeholder="Updated Vehicle Make" ngModel required>
+    <br />
+    <input type="text" name="updatedVehicleModel" placeholder="Updated Vehicle Model" ngModel required>
+    <br />
+    <input type="datetime-local" name="purchaseDate" placeholder="Purchase Date (Epoch)" ngModel required>
+    <br />
+    <input type="submit" value="Update Vehicle Information">
+  </form>
+</div>
+
+<div>
+  <h2>Delete Vehicle Information</h2>
+  <form #deleteVehicleInfoForm="ngForm" (ngSubmit)="deleteVehicleInformation(deleteVehicleInfoForm)">
+    <input type="number" name="vehicleID" placeholder="ID to Delete" ngModel required>
+    <br />
+    <input type="submit" value="Delete Vehicle Information">
+  </form>
+</div>
+
+

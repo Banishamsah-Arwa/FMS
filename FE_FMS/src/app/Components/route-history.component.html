@@ -1,0 +1,70 @@
+<div>
+  <h2>Add Route History</h2>
+  <form #routeHistoryForm="ngForm" (ngSubmit)="addRouteHistory(routeHistoryForm)">
+    <label for="vehicle">Select Vehicle:</label>
+    <select name="vehicleID" ngModel required>
+      <option *ngFor="let vehicle of vehicles" [value]="vehicle.vehicleID">{{ vehicle.vehicleID }}</option>
+    </select>
+    <br />
+    <label for="vehicleDirection">Vehicle Direction:</label>
+    <input type="number" name="vehicleDirection" ngModel required>
+    <br />
+    <label for="status">Status:</label>
+    <input type="text" name="status" ngModel required>
+    <br />
+    <label for="vehicleSpeed">Vehicle Speed:</label>
+    <input type="text" name="vehicleSpeed" ngModel required>
+    <br />
+    <label for="epoch">Epoch:</label>
+    <input type="number" name="epoch" ngModel required>
+    <br />
+    <label for="address">Address:</label>
+    <input type="text" name="address" ngModel required>
+    <br />
+    <label for="latitude">Latitude:</label>
+    <input type="number" name="latitude" step="any" ngModel required>
+    <br />
+    <label for="longitude">Longitude:</label>
+    <input type="number" name="longitude" step="any" ngModel required>
+    <br />
+    <input type="submit" value="Add Route History">
+  </form>
+</div>
+<div>
+  <h2>Choose Vehicle ID</h2>
+  <select name="selectedVehicleID" [(ngModel)]="selectedVehicleID" (change)="onVehicleChange()">
+    <option *ngFor="let vehicle of vehicles" [value]="vehicle.vehicleID">{{ vehicle.vehicleID }}</option>
+  </select>
+</div>
+
+<div>
+  <h2>Route History for Selected Vehicle</h2>
+  <table border="1">
+    <thead>
+      <tr>
+        <th>Route History ID</th>
+        <th>Vehicle ID</th>
+        <th>Vehicle Direction</th>
+        <th>Status</th>
+        <th>Vehicle Speed</th>
+        <th>Epoch</th>
+        <th>Address</th>
+        <th>Latitude</th>
+        <th>Longitude</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let history of selectedVehicleHistory">
+        <td>{{ history.routeHistoryID }}</td>
+        <td>{{ history.vehicleID }}</td>
+        <td>{{ history.vehicleDirection }}</td>
+        <td>{{ history.status }}</td>
+        <td>{{ history.vehicleSpeed }}</td>
+        <td>{{ history.epoch }}</td>
+        <td>{{ history.address }}</td>
+        <td>{{ history.latitude }}</td>
+        <td>{{ history.longitude }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

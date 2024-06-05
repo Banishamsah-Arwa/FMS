@@ -1,0 +1,11 @@
+@FMS_APIs_HostAddress = http://localhost:5192
+
+GET {{FMS_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+GET {{FMS_APIs_HostAddress}}/vehicles/
+
+###
+
+POST {{FMS_APIs_HostAddress}}/vehicles/

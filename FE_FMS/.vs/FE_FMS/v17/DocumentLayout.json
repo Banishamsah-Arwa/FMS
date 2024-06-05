@@ -1,0 +1,633 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\client-options.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\client-options.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\services\\vehicleinformation.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\services\\vehicleinformation.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\client-option.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\client-option.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\client-option.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\client-option.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\all-vehicles.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\all-vehicles.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle-details.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle-detail.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle-detail.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\information.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\information.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle-detail.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle-detail.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\services\\vehicles.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\services\\vehicles.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\vehicle.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\vehicle.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\information.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\information.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\route-history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\route-history.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\information.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\information.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\services\\driver.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\services\\driver.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\driver-option.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\driver-option.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\driver-options.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\driver-options.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\driver-options.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\driver-options.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\route-history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\route-history.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\route-history.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\route-history.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\services\\routehstory.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\services\\routehstory.services.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\services\\geofences.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\services\\geofences.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\all-vehicles.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\all-vehicles.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\geofences.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\geofences.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\geofences.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\geofences.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\geofences.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\geofences.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\components\\all-vehicles.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\components\\all-vehicles.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\fe_fms.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:fe_fms.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|c:\\users\\dell\\desktop\\qtz\\fe_fms\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{228F6CD3-9F02-435E-9D46-2DEEB2CFB124}|FE_FMS.esproj|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "client-option.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-option.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\client-option.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-option.component.css",
+              "RelativeToolTip": "src\\app\\Components\\client-option.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-05T11:31:51.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client-options.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-options.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\client-options.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-options.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\client-options.component.ts",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-05T11:23:45.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "src\\app\\app-routing.module.ts",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-01T22:55:46.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehicleinformation.service.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\vehicleinformation.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Services\\vehicleinformation.service.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\vehicleinformation.service.ts",
+              "RelativeToolTip": "src\\app\\Services\\vehicleinformation.service.ts",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwDAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-04T19:31:03.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "client-option.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-option.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\client-option.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\client-option.component.html",
+              "RelativeToolTip": "src\\app\\Components\\client-option.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-05T11:31:22.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "vehicle-details.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-details.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle-details.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-details.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\vehicle-details.component.ts",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-02T18:09:55.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "vehicle.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.html",
+              "RelativeToolTip": "src\\app\\Components\\vehicle.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-04T22:01:11.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "vehicle.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\vehicle.component.ts",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-04T22:01:15.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "all-vehicles.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\all-vehicles.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\all-vehicles.component.ts",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-01T23:04:41.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "vehicle-detail.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-detail.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle-detail.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-detail.component.html",
+              "RelativeToolTip": "src\\app\\Components\\vehicle-detail.component.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAiwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-02T18:32:25.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "information.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\information.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\information.component.ts",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-04T19:15:16.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\styles.css",
+              "RelativeDocumentMoniker": "src\\styles.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\styles.css",
+              "RelativeToolTip": "src\\styles.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T21:43:20.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "vehicle-detail.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-detail.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle-detail.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle-detail.component.css",
+              "RelativeToolTip": "src\\app\\Components\\vehicle-detail.component.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T18:34:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.module.ts",
+              "RelativeToolTip": "src\\app\\app.module.ts",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAC8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-01T22:55:47.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "vehicles.service.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\vehicles.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Services\\vehicles.service.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\vehicles.service.ts",
+              "RelativeToolTip": "src\\app\\Services\\vehicles.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T22:12:38.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "vehicle.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\vehicle.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\vehicle.component.css",
+              "RelativeToolTip": "src\\app\\Components\\vehicle.component.css",
+              "ViewState": "AQIAACYAAAAAAAAAAAAuwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-04T22:07:45.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "route-history.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\route-history.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\route-history.component.ts",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwEUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T20:17:20.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "information.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\information.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.css",
+              "RelativeToolTip": "src\\app\\Components\\information.component.css",
+              "ViewState": "AQIAACYAAAAAAAAAAAAqwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-04T19:29:31.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "information.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\information.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\information.component.html",
+              "RelativeToolTip": "src\\app\\Components\\information.component.html",
+              "ViewState": "AQIAABQAAAAAAAAAAAAqwCwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-04T19:19:57.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "driver.service.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\driver.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Services\\driver.service.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\driver.service.ts",
+              "RelativeToolTip": "src\\app\\Services\\driver.service.ts",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAAD0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-01T22:42:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "driver-option.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-option.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\driver-option.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-option.component.css",
+              "RelativeToolTip": "src\\app\\Components\\driver-option.component.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwDQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T08:08:32.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "driver-options.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-options.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\driver-options.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-options.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\driver-options.component.ts",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAQwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T07:40:38.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "driver-options.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-options.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\driver-options.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\driver-options.component.html",
+              "RelativeToolTip": "src\\app\\Components\\driver-options.component.html",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-03T07:38:58.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "route-history.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\route-history.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.html",
+              "RelativeToolTip": "src\\app\\Components\\route-history.component.html",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAqwD8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-03T20:21:26.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "route-history.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\route-history.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\route-history.component.css",
+              "RelativeToolTip": "src\\app\\Components\\route-history.component.css",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAqwFIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-03T20:26:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "routehstory.services.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\routehstory.services.ts",
+              "RelativeDocumentMoniker": "src\\app\\Services\\routehstory.services.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\routehstory.services.ts",
+              "RelativeToolTip": "src\\app\\Services\\routehstory.services.ts",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-03T20:18:57.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "geofences.service.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\geofences.service.ts",
+              "RelativeDocumentMoniker": "src\\app\\Services\\geofences.service.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Services\\geofences.service.ts",
+              "RelativeToolTip": "src\\app\\Services\\geofences.service.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-02T21:01:55.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "all-vehicles.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\all-vehicles.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.html",
+              "RelativeToolTip": "src\\app\\Components\\all-vehicles.component.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-02T09:19:06.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "geofences.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\Components\\geofences.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.ts",
+              "RelativeToolTip": "src\\app\\Components\\geofences.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-02T21:03:18.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "geofences.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\geofences.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.css",
+              "RelativeToolTip": "src\\app\\Components\\geofences.component.css",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-02T21:08:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "geofences.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.html",
+              "RelativeDocumentMoniker": "src\\app\\Components\\geofences.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\geofences.component.html",
+              "RelativeToolTip": "src\\app\\Components\\geofences.component.html",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-02T21:08:05.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "all-vehicles.component.css",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.css",
+              "RelativeDocumentMoniker": "src\\app\\Components\\all-vehicles.component.css",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\Components\\all-vehicles.component.css",
+              "RelativeToolTip": "src\\app\\Components\\all-vehicles.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-01T22:06:43.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.component.ts",
+              "RelativeToolTip": "src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-02T09:06:08.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FE_FMS.esproj",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\FE_FMS.esproj",
+              "RelativeDocumentMoniker": "FE_FMS.esproj",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\FE_FMS.esproj",
+              "RelativeToolTip": "FE_FMS.esproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T21:42:24.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-01T21:42:54.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AQIAADYAAAAAAAAAAAAuwEAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-01T21:43:30.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-01T21:43:00.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\FE_FMS\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-01T22:13:02.733Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\vehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\vehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\vehicleinformationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\vehicleinformationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\routehisory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\routehisory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\detailedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\detailedinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\detailedgeofence .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\detailedgeofence .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\arwabanishamsah_fms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:arwabanishamsah_fms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\services\\geofence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:services\\geofence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\Downloads\\GVAR.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|c:\\users\\dell\\desktop\\qtz\\arwabanishamsah_fms\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B97027-8BFC-47B8-8265-5576B17D05FE}|ARWABANISHAMSAH_FMS.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetailedGeofence .cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\DetailedGeofence .cs",
+              "RelativeDocumentMoniker": "SERVICES\\DetailedGeofence .cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\DetailedGeofence .cs",
+              "RelativeToolTip": "SERVICES\\DetailedGeofence .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:51:34.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleInformationServices.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\VehicleInformationServices.cs",
+              "RelativeDocumentMoniker": "SERVICES\\VehicleInformationServices.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\VehicleInformationServices.cs",
+              "RelativeToolTip": "SERVICES\\VehicleInformationServices.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAIwGoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T11:12:03.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetailedInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\DetailedInfo.cs",
+              "RelativeDocumentMoniker": "SERVICES\\DetailedInfo.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\DetailedInfo.cs",
+              "RelativeToolTip": "SERVICES\\DetailedInfo.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAKoAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:26:09.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleServices.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\VehicleServices.cs",
+              "RelativeDocumentMoniker": "SERVICES\\VehicleServices.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\VehicleServices.cs",
+              "RelativeToolTip": "SERVICES\\VehicleServices.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAkwEsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:32:25.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\Driver.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Driver.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\Driver.cs",
+              "RelativeToolTip": "SERVICES\\Driver.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAwwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:12:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteHisory.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\RouteHisory.cs",
+              "RelativeDocumentMoniker": "SERVICES\\RouteHisory.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\RouteHisory.cs",
+              "RelativeToolTip": "SERVICES\\RouteHisory.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowE4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:32:22.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ARWABANISHAMSAH_FMS.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\ARWABANISHAMSAH_FMS.csproj",
+              "RelativeDocumentMoniker": "ARWABANISHAMSAH_FMS.csproj",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\ARWABANISHAMSAH_FMS.csproj",
+              "RelativeToolTip": "ARWABANISHAMSAH_FMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T10:12:28.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Geofence.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\Geofence.cs",
+              "RelativeDocumentMoniker": "SERVICES\\Geofence.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\SERVICES\\Geofence.cs",
+              "RelativeToolTip": "SERVICES\\Geofence.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:32:21.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GVAR.ts",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GVAR.ts",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\GVAR.ts",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GVAR.ts",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\GVAR.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-04-29T20:55:42.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T08:22:39.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

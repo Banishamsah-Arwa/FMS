@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mhok1UyLaG3M8KIgQlI+HQD+qC4eZHutGwYa3yTT9NNi5HSdfchujMhq/TDP8cv5w+RWcFiOy98J+ahiUpLnPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dell\\Desktop\\QTZ\\ARWABANISHAMSAH_FMS\\ARWABANISHAMSAH_FMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\dell\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

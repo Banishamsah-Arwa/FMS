@@ -1,0 +1,226 @@
+{
+	"info": {
+		"_postman_id": "e2ec1e49-8bef-4602-8780-5db5b1b26daf",
+		"name": "FMS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34117282"
+	},
+	"item": [
+		{
+			"name": "add Vehicle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Vehicles",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:5192/vehicles",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "5192",
+							"path": [
+								"vehicles"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "json",
+					"header": [
+						{
+							"key": "Content-Length",
+							"value": "1253"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Date",
+							"value": "Sat, 11 May 2024 04:39:02 GMT"
+						},
+						{
+							"key": "Server",
+							"value": "Kestrel"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"Vehicles\": [\n        {\n            \"vehicleID\": 1,\n            \"vehicleNumber\": 8,\n            \"vehicleType\": \"Subaru\"\n        },\n        {\n            \"vehicleID\": 2,\n            \"vehicleNumber\": 51,\n            \"vehicleType\": \"Volkswagen\"\n        },\n        {\n            \"vehicleID\": 3,\n            \"vehicleNumber\": 85,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 4,\n            \"vehicleNumber\": 84,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 5,\n            \"vehicleNumber\": 90,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 6,\n            \"vehicleNumber\": 55,\n            \"vehicleType\": \"Mercedes-Benz\"\n        },\n        {\n            \"vehicleID\": 7,\n            \"vehicleNumber\": 148,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 8,\n            \"vehicleNumber\": 946,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 9,\n            \"vehicleNumber\": 64354,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 10,\n            \"vehicleNumber\": 35586,\n            \"vehicleType\": \"Nissan\"\n        },\n        {\n            \"vehicleID\": 11,\n            \"vehicleNumber\": 20741,\n            \"vehicleType\": \"BMW\"\n        },\n        {\n            \"vehicleID\": 12,\n            \"vehicleNumber\": 0,\n            \"vehicleType\": \"Isuzu\"\n        },\n        {\n            \"vehicleID\": 13,\n            \"vehicleNumber\": 13,\n            \"vehicleType\": \"Mazda\"\n        },\n        {\n            \"vehicleID\": 14,\n            \"vehicleNumber\": 460,\n            \"vehicleType\": \"Ferrari\"\n        },\n        {\n            \"vehicleID\": 15,\n            \"vehicleNumber\": 6,\n            \"vehicleType\": \"Volvo\"\n        },\n        {\n            \"vehicleID\": 16,\n            \"vehicleNumber\": 2591,\n            \"vehicleType\": \"Chevrolet\"\n        },\n        {\n            \"vehicleID\": 17,\n            \"vehicleNumber\": 26500,\n            \"vehicleType\": \"GMC\"\n        },\n        {\n            \"vehicleID\": 18,\n            \"vehicleNumber\": 452,\n            \"vehicleType\": \"Dodge\"\n        },\n        {\n            \"vehicleID\": 19,\n            \"vehicleNumber\": 3460,\n            \"vehicleType\": \"Ford\"\n        },\n        {\n            \"vehicleID\": 20,\n            \"vehicleNumber\": 80,\n            \"vehicleType\": \"Pontiac\"\n        },\n        {\n            \"vehicleID\": 22,\n            \"vehicleNumber\": 97789,\n            \"vehicleType\": \"car\"\n        }\n    ]\n}"
+				}
+			]
+		},
+		{
+			"name": "update Vehicle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete Vehicle",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "add Vehicle Information",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete Vehicle Information",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update Vehicle Information",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "add Route History",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Driver",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Add driver",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update Driver",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete Driver",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Geofences",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Circle Geofences",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Rectangle Geofence",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get Polygon Geofence",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Vehicle In Range Time",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "details When ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Get Route History By Vehicle Id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update vehicle information driver id",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "Host",
+			"value": "http://localhost:5192"
+		}
+	]
+}

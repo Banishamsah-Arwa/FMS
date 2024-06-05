@@ -1,0 +1,54 @@
+<!-- src/app/add-driver/add-driver.component.html -->
+<div>
+  <h2>Add New Driver</h2>
+  <form #addDriverForm="ngForm" (ngSubmit)="addDriver(addDriverForm)">
+    <input type="text" name="driverName" placeholder="Driver Name" ngModel>
+    <br />
+    <input type="number" name="phoneNumber" placeholder="Phone Number" ngModel>
+    <br />
+    <input type="submit" value="Add Driver">
+  </form>
+</div>
+
+<div>
+  <h2>Update Driver</h2>
+  <form #updateDriverForm="ngForm" (ngSubmit)="updateDriver(updateDriverForm)">
+    <input type="number" name="driverID" placeholder="Driver ID" ngModel>
+    <br />
+    <input type="text" name="updatedDriverName" placeholder="Updated Driver Name" ngModel>
+    <br />
+    <input type="number" name="updatedPhoneNumber" placeholder="Updated Phone Number" ngModel>
+    <br />
+    <input type="submit" value="Update Driver">
+  </form>
+</div>
+
+<div>
+  <h2>Delete Driver</h2>
+  <form #deleteDriverForm="ngForm" (ngSubmit)="deleteDriver(deleteDriverForm)">
+    <input type="number" name="driverIdToDelete" placeholder="Driver ID to Delete" ngModel>
+    <br />
+    <input type="submit" value="Delete Driver">
+  </form>
+</div>
+
+<div>
+  <h2>All Drivers</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Phone Number</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let driver of drivers">
+        <td>{{ driver.driverID }}</td>
+        <td>{{ driver.driverName }}</td>
+        <td>{{ driver.phoneNumber }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
